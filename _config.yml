@@ -6,12 +6,15 @@
 name: Alex.c
 
 # Short bio or description (displayed in the header)
-description: #LFC for the win
+description: LFC for the win
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://findicons.com/files/icons/1072/face_avatars/300/a05.png
 
-#
+#storage codes
+
+post_assets: images
+general_posts: images
 # Flags below are optional
 #
 
