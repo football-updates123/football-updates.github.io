@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: lesson
 layout: post
 author: alex.coyne
 permalink: /untitled-document/
